@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,800');
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+.bg-custom {
+    background-color: #006699;
+}
