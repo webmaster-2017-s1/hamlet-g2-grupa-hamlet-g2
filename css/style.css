@@ -26,6 +26,14 @@ h3 {
     font-weight: 800;
 }
 
+p {
+    font-weight: 400;
+}
+
+a {
+    color: #006699;
+}
+
 #hero {
     background-image: url(../img/bookcase.jpg);
     background-size: cover;
