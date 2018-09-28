@@ -59,3 +59,13 @@ a {
     transform: translate(-50%, -50%);
     width: 40%;
 }
+
+footer {
+    text-align: center;
+    padding: 15px 0px;
+}
+
+footer p {
+    margin: 0px;
+    font-size: 12px;
+}
