@@ -60,6 +60,19 @@ a {
     width: 40%;
 }
 
+#content {
+    padding: 55px 0px;
+}
+
+#content .main {
+    padding-right: 35px;
+}
+
+#content p.data {
+    color: #006699;
+    font-size: 13px;
+}
+
 footer {
     text-align: center;
     padding: 15px 0px;
